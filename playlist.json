@@ -1,15 +1,42 @@
 {
   "schemaVersion": 1,
   "playlistId": "PLXVlyzeh2wiG8LTGsbsH7KegGRlX-qFuf",
-  "generatedAt": "2026-11-01T12:16:36Z",
-  "videoCount": 226,
-  "contentHash": "f594f645f0c8d1a7",
+  "generatedAt": "2026-11-02T20:57:22Z",
+  "videoCount": 227,
+  "contentHash": "791bf80fb53f0ac4",
   "items": [
+    {
+      "snippet": {
+        "publishedAt": "2026-11-02T12:28:57Z",
+        "title": "AurorEye UNIT 16 ŌTĀKOU, NZ 2026-10-31T08-09-48",
+        "description": "AurorEye UNIT 16 ŌTĀKOU, NZ 2026-10-31T08-09-48",
+        "resourceId": {
+          "videoId": "LPVpQvV-230"
+        },
+        "thumbnails": {
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LPVpQvV-230/maxresdefault.jpg"
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LPVpQvV-230/sddefault.jpg"
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LPVpQvV-230/hqdefault.jpg"
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LPVpQvV-230/mqdefault.jpg"
+          },
+          "default": {
+            "url": "https://i.ytimg.com/vi/LPVpQvV-230/default.jpg"
+          }
+        }
+      }
+    },
     {
       "snippet": {
         "publishedAt": "2026-10-31T19:11:48Z",
         "title": "AurorEye UNIT 15 NEAR PLUMAS, MB 2026-10-25T04-35-59",
-        "description": "AurorEye UNIT 15 NEAR PLUMAS, MB 2026-10-25T04-35-59",
+        "description": "AurorEye UNIT 15 NEAR PLUMAS, MB 2026-10-25T04-35-59\nno aurora sighted, negative",
         "resourceId": {
           "videoId": "eA0IVAuD_lI"
         },
@@ -36,7 +63,7 @@
       "snippet": {
         "publishedAt": "2026-10-31T17:32:38Z",
         "title": "AurorEye UNIT 15 NEAR PLUMAS, MB 2026-10-31T00-13-26",
-        "description": "AurorEye UNIT 15 NEAR PLUMAS, MB 2026-10-31T00-13-26",
+        "description": "AurorEye UNIT 15 NEAR PLUMAS, MB 2026-10-31T00-13-26\ngalaxy milky way, green northern horizon",
         "resourceId": {
           "videoId": "6P2O7wLyfoM"
         },
