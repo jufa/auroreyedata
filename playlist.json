@@ -1,10 +1,64 @@
 {
   "schemaVersion": 1,
   "playlistId": "PLXVlyzeh2wiG8LTGsbsH7KegGRlX-qFuf",
-  "generatedAt": "2026-11-02T20:57:22Z",
-  "videoCount": 227,
-  "contentHash": "791bf80fb53f0ac4",
+  "generatedAt": "2026-11-09T18:05:01Z",
+  "videoCount": 229,
+  "contentHash": "a6dce882606e1f47",
   "items": [
+    {
+      "snippet": {
+        "publishedAt": "2026-11-09T17:53:21Z",
+        "title": "AurorEye UNIT 14 THOMPSON, MB 2026-11-08T01-10-24",
+        "description": "AurorEye UNIT 14 THOMPSON, MB 2026-11-08T01-10-24",
+        "resourceId": {
+          "videoId": "IpB6vBIUoMA"
+        },
+        "thumbnails": {
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IpB6vBIUoMA/maxresdefault.jpg"
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IpB6vBIUoMA/sddefault.jpg"
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IpB6vBIUoMA/hqdefault.jpg"
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IpB6vBIUoMA/mqdefault.jpg"
+          },
+          "default": {
+            "url": "https://i.ytimg.com/vi/IpB6vBIUoMA/default.jpg"
+          }
+        }
+      }
+    },
+    {
+      "snippet": {
+        "publishedAt": "2026-11-09T17:24:22Z",
+        "title": "AurorEye UNIT 15 NEAR PLUMAS, MB 2026-11-01T03-31-23",
+        "description": "AurorEye UNIT 15 NEAR PLUMAS, MB 2026-11-01T03-31-23",
+        "resourceId": {
+          "videoId": "Yk9BoTPa13w"
+        },
+        "thumbnails": {
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Yk9BoTPa13w/maxresdefault.jpg"
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Yk9BoTPa13w/sddefault.jpg"
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yk9BoTPa13w/hqdefault.jpg"
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yk9BoTPa13w/mqdefault.jpg"
+          },
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yk9BoTPa13w/default.jpg"
+          }
+        }
+      }
+    },
     {
       "snippet": {
         "publishedAt": "2026-11-02T12:28:57Z",
